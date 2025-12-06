@@ -1,4 +1,5 @@
 # Using Facial Morphology Traits Related to Attention Problems in Children to Identify Prenatal Exposures History
+Authors: Anna Shchetinina, MPH, Xianjing Liu, PhD, Natalie Slopen, ScD, Christina Chambers, PhD, Manfred Kayser, PhD, Eppo Wolvius, MD, DDS, PhD, Gennady Roshchupkin, PhD, Henning Tiemeier, MD, PhD
 
 ## Heatmaps of the facial trait Z20 (exposure) indicating associated changes in the mean square-rooted CBCL attention score (outcome)Attention Problems in Children
 

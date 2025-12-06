@@ -30,10 +30,11 @@
 </p>
 <p align="center"><b>Left:</b> 1 SD exposure  <b>Right:</b> 10 SD exposure</p>
 
-Red regions indicate outward changes, blue regions denote inward changes with respect to the geometric center of the head. 
-Facial heatmap visualization:
-By selective decoding one facial trait while remaining the rest unchanged, we generated a sequence of reconstructed facial shapes to visualize the effect of the selected trait on facial deformation. Subsequently, a facial heatmap was calculated to display the facial deformation. The amount of facial deformation was determined by the effect of the mean+-SD of the exposure in the analysis. For some cases, the amount of deformation was magnified by ten for enhanced visualization. 
-
+<sup>
+Red regions indicate outward changes, blue regions denote inward changes with respect to the geometric center of the head.<br>
+Facial heatmap visualization: <br>
+By selective decoding one facial trait while remaining the rest unchanged, we generated a sequence of reconstructed facial shapes to visualize the effect of the selected trait on facial deformation. Subsequently, a facial heatmap was calculated to display the facial deformation. The amount of facial deformation was determined by the effect of the mean+-SD of the exposure in the analysis. For some cases, the amount of deformation was magnified by ten for enhanced visualization. <br>
+</sup>
 
 ## Prenatal Exposures
 

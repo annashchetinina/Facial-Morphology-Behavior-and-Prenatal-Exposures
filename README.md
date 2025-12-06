@@ -1,17 +1,19 @@
 # Facial-Morphology-Behavior-and-Prenatal-Exposures
 
-## Front Whole Face
-![Front Whole Face](assets/front-whole-face-animated-magnified.gif)
-![Front Whole Face Magnified](assets/front-whole-face-animated.gif)
+## Attention
 
-## Front Lower Face
-![Front Lower Face](assets/front-lower-face-animated.gif)
-![Front Lower Face Magnified](assets/front-lower-face-animated-magnified.gif)
+### Front Whole Face
+![Front Whole Face](assets/attention/front-whole-face-1-SD.gif)
+![Front Whole Face Magnified](assets/attention/front-whole-face-10-SD.gif)
 
-## Side Lower Face
-![Side Lower Face](assets/side-lower-face-animated.gif)
-![Side Lower Face Magnified](assets/side-lower-face-animated-magnified.gif)
+### Front Lower Face
+![Front Lower Face](assets/attention/front-lower-1-SD.gif)
+![Front Lower Face Magnified](assets/attention/front-lower-10-SD.gif)
 
-## Side Whole Face
-![Side Whole Face](assets/side-whole-face-animated.gif)
-![Side Whole Face Magnified](assets/side-whole-face-animated-magnified.gif)
+### Side Lower Face
+![Side Lower Face](assets/attention/side-lower-face-1-SD.gif)
+![Side Lower Face Magnified](assets/attention/side-lower-face-10-SD.gif)
+
+### Side Whole Face
+![Side Whole Face](assets/attention/side-whole-face-1-SD.gif)
+![Side Whole Face Magnified](assets/attention/side-whole-face-10-SD.gif)

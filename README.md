@@ -1,6 +1,6 @@
-# Facial-Morphology-Behavior-and-Prenatal-Exposures
+# Using Facial Morphology Traits Related to Attention Problems in Children to Identify Prenatal Exposures History
 
-## Attention
+## Heatmaps of the facial trait Z20 (exposure) indicating associated changes in the mean square-rooted CBCL attention score (outcome)Attention Problems in Children
 
 ### Front Whole Face
 <p align="center">
@@ -36,7 +36,7 @@ Facial heatmap visualization: <br>
 By selective decoding one facial trait while remaining the rest unchanged, we generated a sequence of reconstructed facial shapes to visualize the effect of the selected trait on facial deformation. Subsequently, a facial heatmap was calculated to display the facial deformation. The amount of facial deformation was determined by the effect of the mean+-SD of the exposure in the analysis. For some cases, the amount of deformation was magnified by ten for enhanced visualization. <br>
 </sup>
 
-## Prenatal Exposures
+## Heatmaps representing the observed associations between prenatal exposures and facial trait Z20
 
 ### Folic Acid 
 #### Front Whole Face

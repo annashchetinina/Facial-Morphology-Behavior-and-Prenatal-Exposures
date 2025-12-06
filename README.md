@@ -3,6 +3,10 @@
 ## Attention
 
 ### Front Whole Face
+<p>
+  <img src="assets/attention/front-whole-face-1-SD.gif" width="45%">
+  <img src="assets/attention/front-whole-face-10-SD.gif" width="45%">
+</p>
 ![Front Whole Face](assets/attention/front-whole-face-1-SD.gif)
 ![Front Whole Face Magnified](assets/attention/front-whole-face-10-SD.gif)
 
